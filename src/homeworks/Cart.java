@@ -2,7 +2,7 @@ package homeworks;
 
 import java.util.ArrayList;
 
-public class Basket {
+public class Cart {
 	private ArrayList<Product> products = new ArrayList<Product>();
 	
 	public void addProduct(Product product) throws Exception {
